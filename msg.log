@@ -1,0 +1,154 @@
+2020-11-23 18:13:23,124 - INFO- Successful login
+2020-11-23 18:14:11,789 - INFO- Successful login
+2020-11-23 18:16:19,263 - INFO- Successful login
+2020-11-23 18:16:28,256 - INFO- Student added a new course
+2020-11-23 18:16:31,108 - INFO- Student added a new course
+2020-11-23 18:16:34,739 - WARNING- Try take existing course again 
+2020-11-23 18:16:40,034 - WARNING- Try take existing course again 
+2020-11-23 18:16:45,813 - INFO- Student added a new course
+2020-11-23 18:16:49,853 - WARNING- Try take unavailable course for student
+2020-11-23 18:16:56,788 - INFO- Student added a new course
+2020-11-23 18:17:02,987 - WARNING- Unsuccessful student submission
+2020-11-23 18:18:33,154 - WARNING- Unsuccessful student submission
+2020-11-23 18:20:51,768 - INFO- Successful login
+2020-11-23 18:20:57,138 - INFO- Student added a new course
+2020-11-23 18:20:59,591 - INFO- Student added a new course
+2020-11-23 18:21:02,535 - INFO- Student added a new course
+2020-11-23 18:21:04,715 - INFO- Student added a new course
+2020-11-23 18:21:07,081 - INFO- Student submitted courses
+2020-11-23 18:21:11,110 - INFO- Student logged out
+2020-11-23 18:22:19,697 - WARNING- Unavailable option input in menu
+2020-11-23 18:22:29,048 - INFO- Successful login
+2020-11-23 18:22:38,822 - ERROR- invalid input.[Try choose student]
+2020-11-23 18:22:56,760 - ERROR- Reject student courses
+2020-11-23 18:22:56,760 - INFO- Admin changed 97991013 status to False 
+2020-11-23 18:22:59,976 - INFO- Admin logout
+2020-11-23 18:23:41,624 - INFO- Successful login
+2020-11-23 18:23:45,376 - WARNING- Student courses rejected
+2020-11-23 18:23:52,831 - ERROR- invalid input for course code[Try take course]
+Traceback (most recent call last):
+  File "C:\Users\Leila\Desktop\elahe\990903_develop\run_project\student_login.py", line 41, in student_login
+    course_code = int(input('course code:'))
+ValueError: invalid literal for int() with base 10: ''
+2020-11-23 18:23:57,947 - INFO- Student added a new course
+2020-11-23 18:24:00,630 - INFO- Student logged out
+2020-11-23 18:25:17,475 - INFO- Successful login
+2020-11-23 18:25:19,773 - INFO- Student logged out
+2020-11-23 18:25:31,171 - INFO- Successful login
+2020-11-23 18:25:57,205 - ERROR- Empty input for define course
+2020-11-23 18:27:08,358 - INFO- Successful login
+2020-11-23 18:27:47,436 - INFO- New course defined!
+2020-11-23 18:28:08,592 - ERROR- Empty input for define course
+2020-11-23 18:30:13,912 - INFO- Successful login
+2020-11-23 18:30:36,403 - WARNING- Try defined course for other fields
+2020-11-23 18:30:58,302 - WARNING- Try defined course for other fields
+2020-11-23 18:31:29,583 - INFO- Successful login
+2020-11-23 18:31:46,654 - ERROR- Empty input for define course
+2020-11-23 18:34:21,183 - INFO- Successful login
+2020-11-23 18:34:39,650 - INFO- New course defined!
+2020-11-23 18:34:48,027 - ERROR- Unavailable option input in admin menu
+2020-11-23 18:34:53,124 - INFO- Admin logout
+2020-11-23 21:32:53,766 - ERROR- Wrong username or password
+2020-11-23 21:33:02,416 - INFO- Successful login
+2020-11-23 21:33:06,955 - INFO- Student added a new course
+2020-11-23 21:33:10,928 - INFO- Student added a new course
+2020-11-23 21:33:23,780 - WARNING- Try take existing course again 
+2020-11-23 21:35:45,557 - INFO- Successful login
+2020-11-23 21:35:50,665 - INFO- Student added a new course
+2020-11-23 21:36:00,092 - INFO- Student added a new course
+2020-11-23 21:36:02,393 - INFO- Student added a new course
+2020-11-23 21:36:07,731 - INFO- Student added a new course
+2020-11-23 21:36:15,491 - INFO- Student submitted courses
+2020-11-23 21:36:26,236 - ERROR- Try take course after successful submission
+2020-11-23 21:36:35,024 - INFO- Student logged out
+2020-11-23 21:37:18,250 - INFO- Successful login
+2020-11-23 21:37:29,964 - ERROR- Try search unavailable student id
+2020-11-23 21:37:47,919 - ERROR- Reject student courses
+2020-11-23 21:37:47,919 - INFO- Admin changed 95991311 status to False 
+2020-11-23 21:37:55,712 - ERROR- Unavailable option input in admin menu
+2020-11-23 21:38:59,037 - INFO- Admin logout
+2020-11-23 21:40:19,799 - INFO- Successful login
+2020-11-23 21:40:22,606 - WARNING- Unsuccessful student submission
+2020-11-23 21:43:53,002 - INFO- Student logged out
+2020-11-23 21:47:28,938 - ERROR- Wrong username or password
+2020-11-23 21:47:47,607 - INFO- Successful login
+2020-11-23 21:48:14,886 - ERROR- Empty input for define course
+2020-11-23 21:53:12,675 - INFO- Successful login
+2020-11-23 21:53:27,931 - INFO- New course defined!
+2020-11-23 22:12:28,658 - INFO- Successful login
+2020-11-23 22:12:59,659 - INFO- New course defined!
+2020-11-23 22:13:26,200 - INFO- Admin logout
+2020-11-23 22:13:27,754 - INFO- user exit
+2020-11-23 22:13:54,143 - INFO- Successful login
+2020-11-23 22:14:17,235 - INFO- New course defined!
+2020-11-25 10:25:53,458 - INFO- Successful login
+2020-11-25 10:26:20,920 - INFO- Student added a new course
+2020-11-25 10:26:34,788 - WARNING- Unavailable option input in student menu
+2020-11-25 10:26:54,288 - ERROR- invalid input in student menu
+Traceback (most recent call last):
+  File "D:\maktab\python_project\final_test\run_project\student_login.py", line 17, in student_login
+    choice = int(input('your choice:'))
+ValueError: invalid literal for int() with base 10: 'aaa'
+2020-11-25 10:27:07,794 - INFO- Student dropped a course
+2020-11-25 10:27:13,792 - WARNING- Student courses rejected
+2020-11-25 10:30:38,119 - INFO- Student added a new course
+2020-11-25 10:30:41,195 - WARNING- Student courses rejected
+2020-11-25 10:35:08,081 - INFO- Successful login
+2020-11-25 10:36:14,699 - INFO- Successful login
+2020-11-25 10:36:16,795 - WARNING- Student courses rejected
+2020-11-25 10:36:23,275 - INFO- Student added a new course
+2020-11-25 10:36:41,897 - INFO- Student dropped a course
+2020-11-25 10:36:46,979 - WARNING- Student courses rejected
+2020-11-25 10:37:45,695 - INFO- Student added a new course
+2020-11-25 10:37:49,574 - WARNING- Try take unavailable course for student
+2020-11-25 10:38:05,123 - INFO- Student added a new course
+2020-11-25 10:38:08,289 - INFO- Student added a new course
+2020-11-25 10:38:20,410 - INFO- Student added a new course
+2020-11-25 10:38:28,567 - INFO- Student submitted courses
+2020-11-25 10:38:34,957 - INFO- Student logged out
+2020-11-25 10:38:54,355 - INFO- Successful login
+2020-11-25 10:39:18,244 - ERROR- invalid input.[Try choose student]
+2020-11-25 10:39:26,551 - ERROR- Unavailable option input in admin menu
+2020-11-25 10:39:44,816 - ERROR- Try search unavailable student id
+2020-11-25 10:40:01,916 - INFO- Approve student courses 
+2020-11-25 10:40:01,916 - INFO- Admin changed 97991013 status to True 
+2020-11-25 10:40:06,245 - INFO- Admin logout
+2020-11-25 10:40:16,973 - INFO- Successful login
+2020-11-25 10:40:22,850 - ERROR- Try take course after successful submission
+2020-11-25 10:40:37,768 - INFO- Student logged out
+2020-11-25 10:40:47,467 - INFO- Successful login
+2020-11-25 10:45:53,575 - WARNING- Try defined course for other fields
+2020-11-25 10:49:01,232 - INFO- Successful login
+2020-11-25 10:49:21,375 - INFO- New course defined!
+2020-11-25 10:49:30,770 - INFO- Admin logout
+2020-11-25 10:49:55,649 - INFO- Successful login
+2020-11-25 10:57:38,560 - ERROR- Wrong username or password
+2020-11-25 10:57:47,710 - INFO- Successful login
+2020-11-25 10:58:43,228 - INFO- New course defined!
+2020-11-25 11:02:41,601 - INFO- Successful login
+2020-11-25 11:02:59,523 - INFO- New course defined!
+2020-11-25 11:03:41,925 - ERROR- Wrong username or password
+2020-11-25 11:03:51,098 - INFO- Successful login
+2020-11-25 11:04:12,071 - INFO- New course defined!
+2020-11-25 11:05:58,307 - ERROR- Wrong username or password
+2020-11-25 11:06:00,334 - WARNING- Unavailable option input in menu
+2020-11-25 11:06:00,457 - ERROR- invalid input in main function
+Traceback (most recent call last):
+  File "D:/maktab/python_project/final_test/run_project/run.py", line 48, in main
+    choice = int(input('your choice:'))
+ValueError: invalid literal for int() with base 10: ''
+2020-11-25 11:06:02,060 - WARNING- Unavailable option input in menu
+2020-11-25 11:06:15,570 - INFO- Successful login
+2020-11-25 11:06:37,296 - ERROR- Invalid input in admin menu
+2020-11-25 11:06:55,558 - INFO- New course defined!
+2020-11-25 11:09:04,572 - INFO- Successful login
+2020-11-25 11:09:19,934 - WARNING- Try define existing course
+2020-11-25 11:10:07,640 - ERROR- Reject student courses
+2020-11-25 11:10:07,640 - INFO- Admin changed 97991013 status to False 
+2020-11-25 11:10:20,573 - INFO- Admin logout
+2020-11-25 11:10:48,424 - INFO- Successful login
+2020-11-25 11:11:03,041 - INFO- Student added a new course
+2020-11-25 11:11:18,078 - WARNING- invalid course code for dropping
+2020-11-25 11:11:36,117 - WARNING- Try take existing course again 
+2020-11-25 11:11:50,463 - INFO- Student dropped a course
+2020-11-25 11:11:56,968 - WARNING- Student courses rejected
